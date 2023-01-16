@@ -38,4 +38,4 @@
         Subscribed (Boolean)
 
 - FASTAPI - run application
-''' '''bash uvicorn main:app
+    - uvicorn main:app
