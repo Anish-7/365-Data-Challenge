@@ -22,7 +22,7 @@
     
     7.Which are the countries with the most students registered? Does this number scale proportionally with the number of minutes watched per country?
 
-# 1. Building the Model 
+# Building the Model 
 
 - Classification : Task is to develop a machine learning model to predict whether a Free Plan user would convert to a paid subscriber or not.
     
