@@ -36,3 +36,6 @@
     - Target:
 
         Subscribed (Boolean)
+
+- FASTAPI - run application
+''' '''bash uvicorn main:app
